@@ -1,3 +1,0 @@
-processing:
-  default_output_folder: "AIReno_Output"
-  model_name: "gemini-1.5-flash" 

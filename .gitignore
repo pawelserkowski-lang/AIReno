@@ -1,6 +1,0 @@
-.env
-__pycache__/
-AIReno_Output/
-.vscode/
-*.pyc
-.DS_Store

@@ -1,9 +1,0 @@
-customtkinter
-opencv-python
-numpy
-Pillow
-PyYAML
-requests
-tkinterdnd2
-google-generativeai
-python-dotenv
