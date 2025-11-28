@@ -1,0 +1,9 @@
+customtkinter
+tkinterdnd2
+pillow
+numpy
+requests
+urllib3
+python-dotenv
+google-generativeai
+openai
